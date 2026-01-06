@@ -1,0 +1,48 @@
+Makefiles/
+Makefile
+build/
+refrences/
+*.vim
+.DS_Store/
+._.DS_Store
+.DS_Store
+*cache
+*cache/
+__pychache__/
+__pychache__
+__pychache__/
+__pychache__
+*.pyc
+*.kicad_prl
+*.lck
+*auto_saved_files*
+~$*.xlsx
+*backups/
+*_autosave*
+*.~*
+~$*
+*.env
+.venv
+
+# Node Dependencies (Never commit these!)
+node_modules/
+.pnpm-store/
+
+# Production Build Output (Render will generate this)
+dist/
+dist-ssr/
+
+# Local Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS System Files
+.DS_Store
+Thumbs.db
